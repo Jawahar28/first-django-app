@@ -11,8 +11,8 @@ __pycache__/
 # Environment variables
 .env
 
-#Django
-db.sqlite3
+#Django : Database, Templates
+db.sqlite3 
 media/
 staticfiles/
 
